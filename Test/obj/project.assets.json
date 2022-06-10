@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hellsten.p\\source\\repos\\Test%20Repo%20GitHub\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\hellsten.p\\Source\\Repos\\phellstentest\\Test-Repo-GitHub\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\hellsten.p\\source\\repos\\Test%20Repo%20GitHub\\Test\\Test.csproj",
+      "projectPath": "C:\\Users\\hellsten.p\\Source\\Repos\\phellstentest\\Test-Repo-GitHub\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\hellsten.p\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hellsten.p\\source\\repos\\Test%20Repo%20GitHub\\Test\\obj\\",
+      "outputPath": "C:\\Users\\hellsten.p\\Source\\Repos\\phellstentest\\Test-Repo-GitHub\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hellsten.p\\AppData\\Roaming\\NuGet\\NuGet.Config",
